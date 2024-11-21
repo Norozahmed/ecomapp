@@ -4,7 +4,7 @@ export const products = [
     name: 'iPhone 15 Pro',
     price: 999,
     category: 'Phones',
-    image: 'https://images.unsplash.com/photo-1696423736531-6eaa10c1c5e4',
+    image: 'https://media.cnn.com/api/v1/images/stellar/prod/iphone-15-pro-product-card-v1-cnnu.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp',
     description: 'The latest iPhone with pro camera system and A17 Pro chip.',
     specs: {
       display: '6.1-inch Super Retina XDR',
